@@ -5,7 +5,7 @@ header_feature_image: ../uploads/richard-jacobs-8oenpcxktqq-unsplash.jpg
 header_text: From My Perspective
 header_text_color: "#ffffff"
 bannerheight: 40vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/screenshot-2021-02-01-at-09.03.01.png
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
