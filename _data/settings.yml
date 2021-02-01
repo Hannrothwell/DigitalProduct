@@ -3,7 +3,7 @@ description: A website with a blog
 footer_text: Copyright 2021 Hannah Rothwell
 header_feature_image: ../uploads/veri-ivanova-whokvvf0_hu-unsplash.jpg
 header_text: From My Perspective
-header_text_color: "#f17ab3"
+header_text_color: "#ffffff"
 bannerheight: 40vmax
 logo: ../uploads/screenshot-2021-02-01-at-09.03.01.png
 favicon: ../uploads/flower-3197493_1280.webp
