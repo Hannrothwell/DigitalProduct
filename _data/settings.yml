@@ -4,7 +4,7 @@ footer_text: Copyright 2021 Hannah Rothwell
 header_feature_image: ../uploads/gabor-juhasz-b1zyw7sdm5w-unsplash.jpg
 header_text: From My Perspective
 header_text_color: "#ffffff"
-bannerheight: 40vmax
+bannerheight: 50vmax
 logo: ../uploads/screenshot-2021-02-01-at-09.03.01.png
 favicon: ../uploads/flower-3197493_1280.webp
 gridlayout: false
