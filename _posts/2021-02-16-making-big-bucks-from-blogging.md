@@ -9,15 +9,17 @@ tags:
   - ""
 ---
 Blogging might be considered somewhat outdated and perhaps a little bit out of style these days. A pastime for the generation who were there for the start of Myspace and Tumblr.
-But blogging has definitely come into its own once again and is now very popular amongst all generations of web users. But perhaps its new names and identities, such as ‘influencer’, have given it such a significant new lease on life that we aren’t recognising it as the older pastime. As of the end of 2019, there are more than 600 million blogs on the internet out of the 1.7 billion websites. 
-Bloggers, who are now most commonly known as influencers, can be found everywhere in this digital age. You’re probably avidly following dozens on trending social media platforms like Instagram, YouTube or TikTok. And you might be fans of more traditional bloggers on dedicated blog sites such as Word Press. 
+But blogging has definitely come into its own once again and is now very popular amongst all generations of web users. But perhaps its new names and identities, such as ‘influencer’, have given it such a significant new lease on life that we aren’t recognising it as the older pastime. 
+
+
+Bloggers, who are now most commonly known as influencers, can be found everywhere in this digital age. You’re probably avidly following dozens on trending social media platforms like Instagram, YouTube or TikTok. And you might be fans of more traditional bloggers on dedicated blog sites such as Word Press. As of the end of 2019, there are more than 600 million blogs on the internet out of the 1.7 billion websites. 
 
 And these days it is common knowledge that bloggers, influencers, whatever you would like to call them, are making big money from their platforms. 
 So, the questions we’re probably all asking ourselves is how are they making their money? Where does it come from? And most pressing, how can I do this too? 
 
 ## Monetising Your Blog
 
-1. ### Advertising Networks 
+### Advertising Networks
 
 The most common way to make money is by placing ads on your blog.
 To do this is very simple, the most popular way is by utilising Google AdSense. You simply place the banner on to your blog site and the Google AdSense programme does the rest by adding ads they consider relevant to your blogs content. Your blog’s viewers will then see your ads and choose to click on them.
@@ -28,12 +30,12 @@ There are two types of ads:
 * CPC Ads- ‘Cost per click’ ads are usually seen as banners amongst your content and each time someone clicks on one of these ads, you will be paid. 
 * CPM Ads- ‘Cost per 1,000 impressions’ are ads that pay you a fixed sum of money based on the number of people that view your ad. 
 
-2. ### Private Advertising 
+### Private Advertising
 
 Another way of selling ads is by setting up a deal with advertisers directly to get rid of the middle man and set your own ad rates. If your blog is very popular advertisers could even contact you directly to create a partnership. 
 Private ads could be banners, buttons, links, sponsorship space in newsletters or even sponsored posts to review an advertiser’s product or service. 
 
-3. ### Affiliate Marketing 
+### Affiliate Marketing
 
 The next popular tool to monetise your blog is by working for commission by trying affiliate marketing. You can do this through private partnerships with advertisers and businesses that have an affiliate program or through ad networks such as Amazon Associates. 
 
@@ -43,7 +45,7 @@ How to in 3 simple steps:
 * The advertiser gives you a unique link that tracks your affiliate code to know when a buyer has used your site to make a purchase. 
 * Add this affiliate link to your site in your content or as banner ads and wait for a viewer to click and purchase. 
 
-4. ### Sell Memberships 
+### Sell Memberships
 
 If your blog has amassed a significant following and you’re reluctant to add annoying ads to your blog you could sell memberships to exclusive corners of your website. For example, a popular ‘Working in Publishing’ blog may charge their users £5 a month to have access to their prestigious job board.  
 
