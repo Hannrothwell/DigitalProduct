@@ -3,14 +3,13 @@ layout: post
 title: Making Big Bucks from Blogging
 date: 2021-02-16T13:16:25.025Z
 header_feature_image: ../uploads/7-ways-a-blog-can-help-your-business-right-now-5f3c06b9eb24e-760x400.png
-title_color: "#ffffff"
+title_color: "#e60909"
 comments: false
 tags:
   - ""
 ---
 Blogging might be considered somewhat outdated and perhaps a little bit out of style these days. A pastime for the generation who were there for the start of Myspace and Tumblr.
 But blogging has definitely come into its own once again and is now very popular amongst all generations of web users. But perhaps its new names and identities, such as ‘influencer’, have given it such a significant new lease on life that we aren’t recognising it as the older pastime. 
-
 
 Bloggers, who are now most commonly known as influencers, can be found everywhere in this digital age. You’re probably avidly following dozens on trending social media platforms like Instagram, YouTube or TikTok. And you might be fans of more traditional bloggers on dedicated blog sites such as Word Press. As of the end of 2019, there are more than 600 million blogs on the internet out of the 1.7 billion websites. 
 
@@ -50,6 +49,8 @@ How to in 3 simple steps:
 If your blog has amassed a significant following and you’re reluctant to add annoying ads to your blog you could sell memberships to exclusive corners of your website. For example, a popular ‘Working in Publishing’ blog may charge their users £5 a month to have access to their prestigious job board.  
 
 However, you need to make sure that your blog is giving its readers something valuable that they would not be able to find for free somewhere else. This will bolster your reputation and will help to gain you many more followers and loyal subscribers. 
+
+![Piles of coins on pink background ](../uploads/original.png "Coins ")
 
 ## How Much Money do Bloggers Really Make?
 
