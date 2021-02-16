@@ -2,7 +2,7 @@
 layout: post
 title: Making Big Bucks from Blogging
 date: 2021-02-16T13:16:25.025Z
-header_feature_image: ../uploads/7-ways-a-blog-can-help-your-business-right-now-5f3c06b9eb24e-760x400.png
+header_feature_image: ../uploads/blog-3428667_640.jpg
 title_color: "#ffffff"
 comments: false
 tags:
@@ -17,6 +17,8 @@ And these days it is common knowledge that bloggers, influencers, whatever you w
 So, the questions we’re probably all asking ourselves is how are they making their money? Where does it come from? And most pressing, how can I do this too? 
 
 ## Monetising Your Blog
+
+![Ads](../uploads/4c84a03c31f8ef4715321daa5d9d3231.png)
 
 ### Advertising Networks
 
