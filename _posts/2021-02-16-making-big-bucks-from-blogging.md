@@ -3,7 +3,7 @@ layout: post
 title: Making Big Bucks from Blogging
 date: 2021-02-16T13:16:25.025Z
 header_feature_image: ../uploads/7-ways-a-blog-can-help-your-business-right-now-5f3c06b9eb24e-760x400.png
-title_color: "#e60909"
+title_color: "#ffffff"
 comments: false
 tags:
   - ""
