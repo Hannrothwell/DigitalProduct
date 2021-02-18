@@ -7,6 +7,6 @@ header_text_color: "#ffffff"
 bannerheight: 50vmax
 logo: ../uploads/screenshot-2021-02-01-at-09.03.01.png
 favicon: ../uploads/flower-3197493_1280.webp
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
