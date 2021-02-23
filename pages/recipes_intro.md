@@ -15,3 +15,5 @@ You just won’t be able to say no to yet another slice of these guilty pleasure
 These recipes will bring you and those around your table closer, all for the love of Cheesecake
 
 ![Recipe book title against picture of cheesecake ](../uploads/cover.jpg "Recipe book cover ")
+
+[See the list of full recipes](https://hannahs-handle.netlify.app/allrecipes)
