@@ -1,16 +1,17 @@
 ---
-title: My Recipes
+title: "For the Love of Cheesecake "
+subtitle: "Simple cheesecake recipes, exceptional results "
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
-show: false
+show: true
 layout: recipeshome
 ---
-This will be the home page for your recipes.
+This delicious collection of cheesecake recipes is ideal for both the novice cheesecaker or the cheesecake connoisseur! 
 
-Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+These moreish recipes accommodate everyone, from the sweet-tooth to the fussy-foodie and everyone in between. With recipes ranging from the decadent Triple Chocolate Cheesecake, to the sophisticated Raspberry Chocolate Swirl Cheesecake and the wacky Sweet Potato Cheesecake. There’s something inside to fulfil every fancy. 
 
-Add the cover image here.
+Take your date nights and dinner parties to the next level with one of these sensational desserts that are guaranteed to be everyone’s next favourite. 
+You just won’t be able to say no to yet another slice of these guilty pleasures, that taste incredible and look effortlessly captivating. 
+These recipes will bring you and those around your table closer, all for the love of Cheesecake
 
-[![Tomatoes](../uploads/tomatoes.jpg "Tomatoes")](/allrecipes)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Recipe book title against picture of cheesecake ](../uploads/cover.jpg "Recipe book cover ")
