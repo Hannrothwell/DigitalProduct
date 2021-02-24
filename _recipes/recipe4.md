@@ -8,7 +8,7 @@ tags: null
 ---
 This is the easiest cheesecake recipe you'll find! A great recipe for last minute guests and it tastes superb. 
 
-![Cheesecake with fruit on top](../uploads/alireza-etemadi-qrdbj7ov2eu-unsplash.jpg)
+![individual cheesecakes with yellow fruit on top. ](../uploads/kim-daniels-orkeasjey74-unsplash.jpg)
 
 ## Ingredients
 
@@ -35,6 +35,8 @@ Mix together crumbs, sugar, and cinnamon add margarine and blend. Set aside 2 ta
 ### Filling
 
 Beat cheese until fluffy, blend in milk, blend in lemon juice and vanilla. Pour into chilled crust. Sprinkle with set aside crumbs. Refrigerate at least 3 hours before serving. May be doubled and put in 9x13-inch pan. You can make the sweetened condensed milk. I make the milk in the blender and add the cream cheese, lemon juice and vanilla to the milk in the blender.
+
+![Individual cheesecake on white plate ](../uploads/foodie-flavours-8t6ynmypeqg-unsplash.jpg)
 
 Serves: 12
 
