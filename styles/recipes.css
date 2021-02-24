@@ -82,3 +82,47 @@ ul.allrecipes {
   padding: 10px;
   margin: 20px 0;
 }
+body {
+background-color:rgb(240, 204, 227);
+font-family: sans-serif;
+
+
+}
+
+h1{
+color: rgb(222, 43, 113);
+font-family: monospace;
+font-size: 40px;
+
+}
+
+img{
+width: 75%;
+max-width: 750px;
+margin: 0 auto;
+display: block;
+
+}
+
+h2 {
+color: rgb(222, 43, 113);
+
+}
+
+.blurb {
+font-style: italic;
+font-size: 18px;
+
+}
+
+p {
+
+}
+
+.everything {
+background-color: white;
+width: 70%;
+margin: 0 auto;
+max-width: 750px;
+padding: 30px;
+}
