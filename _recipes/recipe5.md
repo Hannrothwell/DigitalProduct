@@ -6,7 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-This spring-time recipe is everyone's favourite. It tastes light and fluffy and is super easy to make. 
+This spring-time recipe is everyone's favourite. It tastes light and fluffy and is super easy to make. You can make it your own by adding more delicious blueberries to taste, or filling it with a generous helping of white chocolate to make it sweeter and more of a treat. 
 
 ![White cheesecake with blueberries on top](../uploads/waranya-mooldee-tb0ao4cqrqc-unsplash.jpg)
 
