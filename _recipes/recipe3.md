@@ -6,7 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-This tasty treat is perfect for every Oreo lover! 
+This tasty treat is perfect for every Oreo lover! It gives you the best of both worlds, smooth creamy cheesecake and crunchy, crispy cookies. This dessert will give you a generous 10 servings so there will be plenty to go around. 
 
 ![White Cheesecake with Oreo biscuits ](../uploads/delfina-iacub-umdiriboxde-unsplash.jpg "Oreo Cheesecake ")
 
