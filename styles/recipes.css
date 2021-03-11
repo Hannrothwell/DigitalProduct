@@ -143,6 +143,14 @@ font-size: 30px;
 text-align: left;
 text-decoration: underline;
 }
+body.recipeslisting header{
+width: 75%;
+margin: auto;
+background-color:rgb(235, 204, 241);
+border-style: solid;
+border-color: rgb(96, 31, 135);
+border-width: 10px;
+}
 
 img{
 width: 75%;
