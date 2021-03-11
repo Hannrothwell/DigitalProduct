@@ -135,7 +135,7 @@ padding-top: 10px;
 text-align: center;
 }
 
-h1.recipeslisting {
+body.recipeslisting h1{
 color: rgb(96, 31, 135);
 padding-top: 10px;
 font-family:Arial,Helvetica,sans-serif;
