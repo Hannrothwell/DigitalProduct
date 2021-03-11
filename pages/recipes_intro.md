@@ -16,4 +16,4 @@ These recipes will bring you and those around your table closer, all for the lov
 
 ![Recipe book title against picture of cheesecake ](../uploads/cover.jpg "Recipe book cover ")
 
-[See the list of full recipes](https://hannahs-handle.netlify.app/allrecipes)
+[See the list of full cheesecake recipes](https://hannahs-handle.netlify.app/allrecipes) here.
