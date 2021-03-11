@@ -86,7 +86,7 @@ color: rgb(238, 63, 142);
 }
 
 body {
-background-image: url(../images/flowers.jpeg);
+background-image: url(/uploads/flowers.jpeg);
 font-family: sans-serif;
 font-size: 20px;
 margin: 1em;
