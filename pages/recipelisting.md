@@ -6,4 +6,4 @@ show: false
 layout: recipeslisting
 published: true
 ---
-Here are all of the cheesecake recipes.
+All of the best cheesecake recipes in one convenient and happy place! Wishing you happy cooking and a delicious dessert.
