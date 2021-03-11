@@ -38,6 +38,5 @@ Beat cheese until fluffy, blend in milk, blend in lemon juice and vanilla. Pour 
 
 ![Individual cheesecake on white plate ](../uploads/foodie-flavours-8t6ynmypeqg-unsplash.jpg)
 
-Serves: 12
-
-Preparation time: 30 minutes
+* Serves: 12
+* Preparation time: 30 minutes
