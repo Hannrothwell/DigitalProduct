@@ -44,6 +44,5 @@ Preheat oven to 425F. Beat cream cheese, 3/4 cup sugar and 1 teaspoon of vanilla
 
 ![Raspberries and strawberries topping a cheesecake ](../uploads/brett-jordan-i8g04pqyn90-unsplash.jpg)
 
-Serves: 24
-
-Preparation time: 1 hour
+* Serves: 24
+* Preparation time: 1 hour
