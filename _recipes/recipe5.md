@@ -49,6 +49,5 @@ Rinse fresh blueberries and toss with the 1/4 cup sugar. Heap the blueberries on
 
 ![A slice of cheesecake with blueberries on top](../uploads/waranya-mooldee-lf5psulizse-unsplash.jpg)
 
-Serves: 8
-
-Preparation time: 1 hour
+* Serves: 8
+* Preparation time: 1 hour
