@@ -10,7 +10,7 @@ tags:
 ---
 eBooks have a longer history than many may think. In 1971, Project Gutenberg was launched. It is the oldest digital library whose aim is to ‘encourage the creation and distribution of eBooks’. Digitalising books became common practice after that and in 1998 the first e-reading devices, Rocket Ebook and Softbook, were released. However, the e-reading breakthrough only happened in 2007 with the release of the Amazon Kindle Paperwhite. 
 
-## What are eBooks? 
+## What are eBooks?
 
 ![](../uploads/ebooks-graphic.jpg)
 
@@ -36,7 +36,7 @@ eBooks are files that you can read on digital devices. However, since other file
 * **Text is reflowable:** true eBooks should be reflowable, meaning that content will resize to fit the proportions of the device that you are reading on. PDFs are considered ‘unofficial’ eBooks as they cannot be edited and are not reflowable. 
 * **eBooks can be personalised:** as the layout is not fixed, one can customise it to suit your own needs. Font, size, line spacing can all be changed for increased visibility. 
 
-## The Different eBook Formats 
+## The Different eBook Formats
 
 ![](../uploads/epub-v-pdf-600x300.jpg)
 
@@ -59,7 +59,7 @@ Publishers and writers have many different formats to choose from when creating 
 
 ![](../uploads/popular-ebook-formats-2.png)
 
-## Different eBook Devices & How they Differ 
+## Different eBook Devices & How they Differ
 
 eBooks can be read on dedicated e-reader devices or on any digital device that has a controllable screen, such as desktop computers, laptops, tablets and smartphones. 
 
@@ -69,4 +69,4 @@ eBooks can be read on dedicated e-reader devices or on any digital device that h
 * Kobo
 * Nook
 
-  ![](../uploads/5052936803_4dd93614fb_m.jpg)
+  ![](../uploads/standard-ebooks-e1498021022352.png)
