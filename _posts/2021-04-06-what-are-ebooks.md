@@ -8,13 +8,13 @@ comments: false
 tags:
   - ""
 ---
-eBooks have a longer history than many may think. In 1971, Project Gutenberg was launched. It is the oldest digital library whose aim is to ‘encourage the creation and distribution of eBooks’. Digitalising books became common practice after that and in 1998 the first e-reading devices, Rocket Ebook and Softbook, were released. However, the e-reading breakthrough only happened in 2007 with the release of the Amazon Kindle Paperwhite. 
+eBooks have a longer history than many may think. In 1971, [Project Gutenberg](https://www.gutenberg.org/) was launched. It is the oldest digital library whose aim is to ‘encourage the creation and distribution of eBooks’. Digitalising books became common practice after that and in 1998 the first e-reading devices, Rocket Ebook and Softbook, were released. However, the e-reading breakthrough only happened in 2007 with the release of the [Amazon Kindle Paperwhite. ](https://en.wikipedia.org/wiki/Amazon_Kindle)
 
 ## What are eBooks?
 
-![](../uploads/ebooks-graphic.jpg)
+![eBooks ](../uploads/ebooks-graphic.jpg "eBooks")
 
-eBooks, or electronic books, is a non-editable, reflowable book in a digital format that is read on a digital device. 
+eBooks, or electronic books, are a non-editable, reflowable book in a digital format that is read on a digital device. 
 
 ### Advantages of eBooks:
 
@@ -38,7 +38,7 @@ eBooks are files that you can read on digital devices. However, since other file
 
 ## The Different eBook Formats
 
-![](../uploads/epub-v-pdf-600x300.jpg)
+![Different eBook Formats ](../uploads/epub-v-pdf-600x300.jpg "Different eBook Formats ")
 
 Publishers and writers have many different formats to choose from when creating eBooks. eBook readers usually prefer a specific format but most will accept multiple formats. The differences between the formats consider how they handle fixed-layout and reflowable books, if they support DRM for digital copy protection and whether they support pictures and multimedia content. 
 
@@ -57,7 +57,7 @@ Publishers and writers have many different formats to choose from when creating 
 * **DJVU:** can store 100 monochrome text lines in less than 1MB memory 
 * **RFT:** for reflowable text, compatible with almost all eReaders 
 
-![](../uploads/popular-ebook-formats-2.png)
+![eReader Devices and Their Formats ](../uploads/popular-ebook-formats-2.png "eReader Devices and Their Formats ")
 
 ## Different eBook Devices & How they Differ
 
@@ -69,4 +69,4 @@ eBooks can be read on dedicated e-reader devices or on any digital device that h
 * Kobo
 * Nook
 
-  ![](../uploads/standard-ebooks-e1498021022352.png)
+  ![eReader Devices ](../uploads/standard-ebooks-e1498021022352.png "eReader Devices ")
