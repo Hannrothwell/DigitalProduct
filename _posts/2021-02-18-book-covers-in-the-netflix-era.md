@@ -30,7 +30,7 @@ Another example is how the film adaptation of Daphne Du Maurier’s *My Cousin R
 ![](../uploads/best-book-adaptations-featured-studiobinder-min.jpg)
 
 When a popular book becomes a major motion picture publishers will change the book’s cover to include images of promotion from the film. Or, at the very least a big sticker announcing its adaptation. 
-It is relatively cheap for publishers to publish a new edition of the book with the films poster or actors on the front and it is definitely worth it. 
+It is relatively cheap for publishers to publish a new edition of the book with the film's poster or actors on the front and it is definitely worth it. 
 
 Film tie-in editions draw in more people who otherwise would not of read the book due to the popularity of a Hollywood adaptation. It will also ensure that the book receives first-rate advertising, as a popular film adaptation means booksellers will place the books face up on tables or in special displays. They will also feature in not just major chain bookstores but also airports, railways and supermarkets. 
 The increased sales for bookstores means that they will choose to stock the film tie-in editions almost exclusively over the original editions. 
